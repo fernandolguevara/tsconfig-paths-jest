@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@test/*": ["./test/*"]
+      "@test/*": ["test/*"]
     },
     "sourceMap": true,
     "target": "es5",
